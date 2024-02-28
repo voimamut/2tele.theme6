@@ -220,7 +220,7 @@ const ConfirmComponent = () => {
                                                     fontWeight: '700',
                                                     fontSize:'1rem',
                                                     color: 'black',
-                                                    marginBottom: "0"
+                                                    marginBottom: "0",width: "100%"
                                                 }}
                                             >
                                                 Submit
